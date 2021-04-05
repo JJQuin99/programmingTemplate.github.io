@@ -1,6 +1,9 @@
 body{
-    background: rgb(224, 201, 175);
+    background: rgb(243, 212, 177);
     margin: 20%;
-    Display: flex;
     text-align: center;
 }
+hr{
+    border: 1px dashed #000;
+}
+
