@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Justin Petrovych
+### This is template page for Programming class. 
 
-You can use the [editor on GitHub](https://github.com/UstymPetrovych/ustympetrovych.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+**Short Bio**
+Justin Petrovych was born in Ukraine. In second grade he was enrolled in a music school, where he spent most of his middle school years studying piano, the bandura, and music subjects such as music theory, history, and ear training. He came to the USA around 2013 at which point he started rigirously studying compositiong and percussion. He performed throughout high school and wrote a lot of classical compositions. Now he is studying composition at the Boston Conservatory. Currently he is interested in a career as a composer writing concert works, and scores for video games. He is also interested in developing music software in hopes to make composition and music theory more accessible and fun for young musicians.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Some Images**
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**List of works I wrote in 2020...?**
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UstymPetrovych/ustympetrovych.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
