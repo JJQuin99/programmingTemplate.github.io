@@ -1,7 +1,8 @@
 body{
-    background: rgb(243, 212, 177);
+    background: rgb(51, 51, 50);
     margin: 20%;
     text-align: center;
+    color: rgb(197, 82, 82);
 }
 hr{
     border: 1px dashed #000;
